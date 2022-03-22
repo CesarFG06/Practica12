@@ -20,6 +20,7 @@ public class EjemploGit {
         System.out.println("Esto es una prueba de Git");
         
         System.out.println(nombre);
+        System.out.println("Yo "+nombre+" soy un estudiante de DAW");
     }
     
 }
