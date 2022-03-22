@@ -16,7 +16,10 @@ public class EjemploGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String nombre="César";
         System.out.println("Esto es una prueba de Git");
+        
+        System.out.println(nombre);
     }
     
 }
