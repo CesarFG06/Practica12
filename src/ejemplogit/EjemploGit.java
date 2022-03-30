@@ -22,6 +22,8 @@ public class EjemploGit {
         System.out.println(nombre);
         System.out.println("Yo "+nombre+" soy un estudiante de DAW");
         System.out.println("Esto ha sido añadido en GIT");
+        
+        System.out.println("Cambio para la segunda version");
     }
     
 }
